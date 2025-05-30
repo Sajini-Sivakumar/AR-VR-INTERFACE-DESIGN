@@ -19,3 +19,17 @@ For this task, I designed a VR Cinema Experience project using Figma and DraftXR
 Below the posters, there are left and right arrows that let users scroll through the list of movies. These arrows are placed in a comfortable viewing area, so users can easily move between movie options with a simple click or by using gaze control in a real VR setup.When a user clicks on any movie poster, more details about the movie appear. This includes the movie title, showtime, and a bright green “Book Now” button. This button stands out clearly, making it simple to go ahead with booking.At the top, there’s a colorful heading that says “Find Your Seat.” This gives the feeling of entering a real theater and getting ready to watch a movie. The dark background and glowing colors are chosen on purpose — they make the posters and buttons pop out more, just like in a cinema environment where the lights are dim.
 
 I used Figma to design the layout and screens, and then exported it with DraftXR, which helped turn the flat designs into a VR-friendly view. This helped me see how the layout would look and feel in a virtual space. I followed basic VR design principles like keeping things at eye level, using big buttons, and avoiding clutter to make sure the user has a smooth and comfortable experience.This project gave me a great chance to explore VR interface design. It’s a creative concept that can be built into a working VR app in the future using tools like Unity, WebXR, or A-Frame. For now, it works as a strong concept prototype that shows how we can bring real-world experiences like going to the movies into the virtual world in a smart and user-friendly way.
+
+**OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/46fdfcb3-5b28-4dda-92fb-0f1962fa55ea)
+
+![Image](https://github.com/user-attachments/assets/0847aaf8-1e48-4981-8484-2f641db38cd0)
+
+![Image](https://github.com/user-attachments/assets/a0a5dc74-17ca-46f1-bf86-5c5e1d0d4e16)
+
+![Image](https://github.com/user-attachments/assets/f0944d82-e2ee-4c94-baec-25b10323ab0d)
+
+**PROJECT LINK:**
+
+https://app.draftxr.com/vr/cd7WXK
